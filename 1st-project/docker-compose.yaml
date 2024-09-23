@@ -1,6 +1,7 @@
 # This is multi-container docker compose file.
 # I have taken 2 container, 1 drupal and another postgres
 # I use latest images on both containers.
+# Environment variable is must to use postgres.
 
 
 ---
