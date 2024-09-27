@@ -1,6 +1,7 @@
-# docker-projects
-the repository will contain all my docker projects
+# Docker Projects
+------------------------------
 
+10+ Docker projects will be added to this repository.
 
 **If the `docker-compose up` throws a permission denied error, like this**
 
