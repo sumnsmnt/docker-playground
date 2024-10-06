@@ -9,6 +9,3 @@
 
 Then either change the permission of the /var/run/docker.sock file by using `sudo chmod 666 /var/run/docker.sock` (not the best practice) or change the ownership of the file using `sudo chown $USER /var/run/docker.sock`
 
-
-
-https://github.com/sumnsmnt/docker-projects/tree/main/2nd-project#build-an-image-from-dockerfile-docker-compose-and-run-a-multi-container-project
